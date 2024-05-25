@@ -1,3 +1,12 @@
-.titulo{
-    background-color: rgb(189, 189, 189);
+.encabezadosup{
+    background-color: rgb(236, 236, 236);
+    border-style: none none solid none;
+    border-color: #cfcfcf;
+    
+}
+.encabezadoinf{
+    background-color: rgb(236, 236, 236);
+    border-style: solid none;
+    border-color: #ebebeb;
+    
 }
